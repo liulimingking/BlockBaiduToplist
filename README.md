@@ -1,6 +1,7 @@
 # BlockBaiduToplist
 ## 效果
-屏蔽首页和搜索页的词条。
+屏蔽首页和搜索页的词条。  
+
 ![image](https://github.com/liulimingking/BlockBaiduToplist/assets/75844487/6d753d3a-3afc-4af0-a688-74b0540a34d4)
 ## 使用方法
 右上方Code下拉栏选择Download ZIP 并 解压缩。  
